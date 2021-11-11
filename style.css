@@ -1,0 +1,19 @@
+/* theme name: Wildvecht 
+Author: Stijn van Arkel
+*/
+#menu a{
+    margin: 0 30px;
+}
+
+.blocks-gallery-item img{
+    max-width: 250px;
+    height: 100px;
+}
+
+#sidebar figure{
+    margin: 0;
+}
+
+#sidebar li{
+    list-style: none;
+}
